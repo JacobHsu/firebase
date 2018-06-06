@@ -1,0 +1,20 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "[Firebase](https://firebase.google.com/) is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobHsu/firebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobHsu/firebase/issues"
+  },
+  "homepage": "https://github.com/JacobHsu/firebase#readme"
+}

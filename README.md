@@ -16,3 +16,16 @@
 
 `firebase deploy`  
 > https://test-firebase-2e72e.firebaseapp.com
+
+# Parcel.js
+
+[Parcel.js](https://parceljs.org/) 極速零配置Web應用打包工具  
+`npm install -g parcel-bundler`  
+
+在你正在使用的項目目錄下創建一個 package.json 文件
+`npm init -y`  
+
+`parcel index.html`  
+> Server running at http://localhost:1234
+
+輸出目錄 默認為："dist"  
